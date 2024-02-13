@@ -1,0 +1,10 @@
+langchain
+langchain-community
+python-dotenv
+pandas
+sentence-transformers
+streamlit
+streamlit_chat
+
+
+
